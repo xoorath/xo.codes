@@ -1,0 +1,47 @@
+name: publish to dev
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # https://github.com/actions/checkout/tree/v4
+      - uses: actions/checkout@v4
+        with:
+          repository: '${{ github.repository }}'
+          ref: 'main'
+          path: 'main'
+          lfs: true
+          show-progress: false
+
+      # https://github.com/actions/checkout/tree/v4
+      - uses: actions/checkout@v4
+        with:
+          repository: '${{ github.repository }}'
+          ref: 'www-dev'
+          path: 'www-dev'
+          lfs: true
+          show-progress: false
+
+      - name: ls main
+        run: ls main
+
+      - name: ls www-dev
+        run: ls www-dev
+
+      # https://github.com/actions/checkout/tree/v4
+      - uses: actions/checkout@v4
+        with:
+          repository: 'https://github.com/xoorath/markdeep-static.git'
+          token: '${{ github.token }}'
+          ref: 'main'
+          path: 'markdeep-static'
+          submodules: true
+          show-progress: false
+          
+      - name: ls markdeep-static
+        run: ls markdeep-static
