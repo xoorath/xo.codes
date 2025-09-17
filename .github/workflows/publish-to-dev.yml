@@ -9,32 +9,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout git repos
+      ##########################################################################
+      
       # https://github.com/actions/checkout/tree/v4
-      - uses: actions/checkout@v4
+      - name: ✔️ checkout xo.fail source
+        uses: actions/checkout@v4
         with:
           repository: '${{ github.repository }}'
           ref: 'main'
           path: 'main'
           lfs: true
           show-progress: false
-
+      
       # https://github.com/actions/checkout/tree/v4
-      - uses: actions/checkout@v4
+      - name: ✔️ checkout dev.xo.fail static site
+        uses: actions/checkout@v4
         with:
           repository: '${{ github.repository }}'
           ref: 'www-dev'
           path: 'www-dev'
           lfs: true
           show-progress: false
-
-      - name: ls main
-        run: ls main
-
-      - name: ls www-dev
-        run: ls www-dev
-
+          
       # https://github.com/actions/checkout/tree/v4
-      - uses: actions/checkout@v4
+      - name: ✔️ checkout markdeep-static tool
+        uses: actions/checkout@v4
         with:
           repository: 'xoorath/markdeep-static'
           token: '${{ github.token }}'
@@ -42,6 +42,23 @@ jobs:
           path: 'markdeep-static'
           submodules: true
           show-progress: false
-          
-      - name: ls markdeep-static
-        run: ls markdeep-static
+
+      # run site generation
+      ##########################################################################
+      
+      - name: 🍕 install npm dependencies
+        run: echo placeholder install npm dependencies
+
+      - name: 🍕 run site generation
+        run: echo ${{ github.run_id }}-${{ github.run_attempt }} > www-dev/index.html
+
+      # submit results
+      ##########################################################################
+
+      - name: ➡️ commit to www-dev
+        working-directory: www-dev
+        run: git commit -m "🤖 updating static site from ${{ github. }}"
+
+      - name: ⤴️ push www-dev
+        working-directory: www-dev
+        run: git push origin www-dev
