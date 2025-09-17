@@ -57,7 +57,7 @@ jobs:
 
       - name: ➡️ commit to www-dev
         working-directory: www-dev
-        run: git commit -m "🤖 updating static site from ${{ github. }}"
+        run: git commit -m "🤖 updating static site from ${{ github.run_id }}"
 
       - name: ⤴️ push www-dev
         working-directory: www-dev
