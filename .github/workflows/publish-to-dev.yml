@@ -26,6 +26,7 @@ jobs:
       - name: ✔️ checkout dev.xo.fail static site
         uses: actions/checkout@v4
         with:
+          token: '${{ PAT }}'
           repository: '${{ github.repository }}'
           ref: 'www-dev'
           path: 'www-dev'
@@ -58,8 +59,10 @@ jobs:
       - name: ➡️ commit to www-dev
         working-directory: www-dev
         run: |
+          git config --unset "http.https://github.com/.extraheader"
+          git remote set-url origin "https://x-access-token:${PAT}@github.com/${GITHUB_REPOSITORY}.git/"
           git config user.email "769014+xoorath@users.noreply.github.com"
-          git config user.name "xoorath"
+          git config user.name "xoorath [bot]"
           git add .
           git commit -m "🤖 updating static site from ${{ github.run_id }}"
 
