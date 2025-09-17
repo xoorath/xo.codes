@@ -58,6 +58,8 @@ jobs:
 
       - name: ➡️ commit to www-dev
         working-directory: www-dev
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --unset "http.https://github.com/.extraheader"
           git remote set-url origin "https://x-access-token:${PAT}@github.com/${GITHUB_REPOSITORY}.git/"
