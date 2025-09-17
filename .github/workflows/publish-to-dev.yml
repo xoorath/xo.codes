@@ -36,7 +36,7 @@ jobs:
       # https://github.com/actions/checkout/tree/v4
       - uses: actions/checkout@v4
         with:
-          repository: 'https://github.com/xoorath/markdeep-static.git'
+          repository: 'xoorath/markdeep-static'
           token: '${{ github.token }}'
           ref: 'main'
           path: 'markdeep-static'
