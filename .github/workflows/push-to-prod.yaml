@@ -27,4 +27,4 @@ jobs:
       - name: ⏩
         working-directory: www-dev
         run: |
-          git push origin www-dev:www-prod
+          git push --force origin www-dev:www-prod
