@@ -12,4 +12,4 @@
 
 Each commit to [main](https://github.com/xoorath/xo.fail/tree/main) kicks off an action that updates [www-dev](https://github.com/xoorath/xo.fail/tree/www-dev).
 
-[www-prod](https://github.com/xoorath/xo.fail/tree/www-prod) is not updated automatically, it's done by pushing [www-dev](https://github.com/xoorath/xo.fail/tree/www-dev) to [www-prod](https://github.com/xoorath/xo.fail/tree/www-prod).
+[www-prod](https://github.com/xoorath/xo.fail/tree/www-prod) is not updated automatically, it's done by pushing [www-dev](https://github.com/xoorath/xo.fail/tree/www-dev) to [www-prod](https://github.com/xoorath/xo.fail/tree/www-prod). That process can be done through the [push to prod](https://github.com/xoorath/xo.fail/actions/workflows/push-to-prod.yaml) action.
