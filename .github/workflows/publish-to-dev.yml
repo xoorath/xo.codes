@@ -57,7 +57,7 @@ jobs:
 
       - name: 🍕 run site generation
         working-directory: markdeep-static
-        run: node app.js --in="../main" --out="../www-dev"
+        run: node app.js --in="../main/site" --out="../www-dev"
 
       # submit results
       ##########################################################################
