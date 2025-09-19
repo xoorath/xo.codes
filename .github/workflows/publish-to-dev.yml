@@ -48,10 +48,12 @@ jobs:
       ##########################################################################
       
       - name: 🍕 install npm dependencies
-        run: echo placeholder install npm dependencies
+        working-directory: markdeep-static
+        run: npm install
 
       - name: 🍕 run site generation
-        run: echo ${{ github.run_id }}-${{ github.run_attempt }} > www-dev/index.html
+        working-directory: markdeep-static
+        run: node app.js --in="../main" --out="../www-dev"
 
       # submit results
       ##########################################################################
