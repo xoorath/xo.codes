@@ -46,6 +46,10 @@ jobs:
 
       # run site generation
       ##########################################################################
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22.x'
       
       - name: 🍕 install npm dependencies
         working-directory: markdeep-static
