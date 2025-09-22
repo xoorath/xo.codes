@@ -5,7 +5,7 @@ This is some software I like for different things. If you have a better recommen
 ## Preferences:
 
 * I prefer software that is local first. Clouds tend to have privacy issues, security issues, outages and anti-user incentives.
-* I prefer software written by small independant teams. Trusting some random person's personal repository is a lot easier for me to do than big tech corporations.
+* I prefer software written by small independent teams. Trusting some random person's personal repository is a lot easier for me to do than big tech corporations.
 * I prefer hosting my data in the EU where data privacy laws are typically better than in the US.
 * I prefer simple tools with fewer features as they tend to be more reliable, less disruptive and better at serving their niche.
 * I prefer to give services only the data they require about me to provide a service. I use [sock puppet accounts](https://kalilinuxtutorials.com/sock-puppets-osint-guide/) when interacting with most services that do not need my identity.
@@ -43,7 +43,7 @@ I exclusively use [Proton Mail](https://proton.me/) and I'm very happy with it.
 
 ## Messaging
 
-I use a handful of messaging applications. I have not found one I like enough to reccomend (including [Signal](https://signal.org/download/)). Many of them require de-anonymizing steps such as requiring a phone number to activate or have very low adoption.
+I use a handful of messaging applications. I have not found one I like enough to recommend (including [Signal](https://signal.org/download/)). Many of them require de-anonymizing steps such as requiring a phone number to activate or have very low adoption.
 
 In the meantime my most preferred messaging application is [Signal](https://signal.org/download/) as it does have a number of good privacy and security features even if it requires additional data about users in order to function.
 
