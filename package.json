@@ -1,0 +1,23 @@
+{
+  "name": "xo.codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoorath/xo.fail.git"
+  },
+  "author": "xo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xoorath/xo.fail/issues"
+  },
+  "homepage": "https://github.com/xoorath/xo.fail#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
