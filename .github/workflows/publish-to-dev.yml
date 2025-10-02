@@ -13,7 +13,7 @@ jobs:
       ##########################################################################
       
       # https://github.com/actions/checkout/tree/v4
-      - name: ✔️ checkout xo.fail source
+      - name: ✔️ checkout xo.codes source
         uses: actions/checkout@v4
         with:
           repository: '${{ github.repository }}'
@@ -23,7 +23,7 @@ jobs:
           show-progress: false
       
       # https://github.com/actions/checkout/tree/v4
-      - name: ✔️ checkout dev.xo.fail static site
+      - name: ✔️ checkout dev.xo.codes static site
         uses: actions/checkout@v4
         with:
           token: '${{ secrets.PAT }}'

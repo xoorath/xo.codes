@@ -9,14 +9,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoorath/xo.fail.git"
+    "url": "git+https://github.com/xoorath/xo.codes.git"
   },
   "author": "xo",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/xoorath/xo.fail/issues"
+    "url": "https://github.com/xoorath/xo.codes/issues"
   },
-  "homepage": "https://github.com/xoorath/xo.fail#readme",
+  "homepage": "https://github.com/xoorath/xo.codes#readme",
   "dependencies": {
     "express": "^5.1.0"
   }

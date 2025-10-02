@@ -11,7 +11,7 @@ jobs:
       ##########################################################################
 
       # https://github.com/actions/checkout/tree/v4
-      - name: ✔️ checkout dev.xo.fail static site
+      - name: ✔️ checkout dev.xo.codes static site
         uses: actions/checkout@v4
         with:
           token: '${{ secrets.PAT }}'
