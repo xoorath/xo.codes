@@ -1,4 +1,6 @@
-                                  **xo.codes**
+                                 **xo.codes**
+
+![Illustration by [Rek Bell](https://kokorobot.ca/)](data/site/xo_profile_pic.jpg)
 
 I'm **xo** (*zz-oh*) (🏳️‍⚧️ *she/they*)
 
@@ -8,8 +10,7 @@ in America's pacific northwest and make video games professionally.
 I love tinkering and always have some number of projects on the go. I like
 making small fast programs, making art and hosting events.
 
-Pages:
-================================================================================
+# Pages:
 
 - **Projects**
 	- [**Seafarers**](./projects/seafarers.html) — An Action RPG featuring the
