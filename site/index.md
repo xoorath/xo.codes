@@ -1,6 +1,6 @@
-                                  **xo.town**
+                                  **xo.codes**
 
-I'm **xo** (*zz-oh*) (*she/they*) 🏳️‍⚧️🏳️‍🌈🏴‍☠️.
+I'm **xo** (*zz-oh*) (🏳️‍⚧️ *she/they*)
 
 I grew up in Canada where I learned to make commercial video games. Today I live
 in America's pacific northwest and make video games professionally.
@@ -14,14 +14,19 @@ Pages:
 - **Projects**
 	- [**Seafarers**](./projects/seafarers.html) — An Action RPG featuring the
 	  West African folk stories of Anansi the Spider.
-- **Resources**
-	- [**Recommendations**](./recommendations.html) — Tools and software I use
-	  and recommend.
+- **Articles**
+	- [**Passwords**](./articles/2025/passwords.html) *2025-09* — Some guidance
+	  on account security for regular folks.
+	- [**Recommendations**](./articles/2025/recommendations.html) *2025-09* —
+	  Tools and software I use and recommend.
+- **Recipes**
+	- [**Cheesecake**](./recipes/2023/cheesecake.html) — *2023-*
 - **About Me**
-	- [**Career**](./career.html) — My professional portfolio
+	- [**xo**](./about/xo.html)
+	- [**Career**](./about/career.html) — My professional portfolio
 
 \pagebreak
 
 --------------------------------------------------------------------------------
 
-Copyright © 2025 [xo](https://xo.town). All rights reserved.
+Copyright © 2025 [xo](https://xo.codes). All rights reserved.

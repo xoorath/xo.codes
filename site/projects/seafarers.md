@@ -1,6 +1,5 @@
-                                  **xo.town**
-                                 **Seafarers**
-                             [Home](../index.html)
+                                  **xo.codes**
+                     [home](../index.html) / seafarers
 
 I don't have anything to share with you for the time being. Check back later.
 
@@ -8,4 +7,4 @@ I don't have anything to share with you for the time being. Check back later.
 
 --------------------------------------------------------------------------------
 
-Copyright © 2025 [xo](https://xo.town). All rights reserved.
+Copyright © 2025 [xo](https://xo.codes). All rights reserved.
