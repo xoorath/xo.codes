@@ -1,5 +1,5 @@
-                                  **xo.codes**
-                     [home](../index.html) / about / career
+                        (insert /fragments/header.html here)
+                     [home](/index.html) / about / career
 
 Overview
 ================================================================================
@@ -110,8 +110,4 @@ You can read more about my time in these roles here:
 - [Magmic](#)
 - [QNX Software Systems](#)
 
-\pagebreak
-
---------------------------------------------------------------------------------
-
-Copyright © 2025 [xo](https://xo.codes). All rights reserved.
+                        (insert /fragments/footer.html here)

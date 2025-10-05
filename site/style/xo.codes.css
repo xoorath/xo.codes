@@ -1,0 +1,65 @@
+.md h1::before {
+	content:"" ;
+}
+
+.md h2::before {
+	content:"" ;
+}
+
+.md h3::before {
+	content:"" ;
+}
+
+.md h4::before {
+	content:"" ;
+}
+
+.md h5::before {
+	content:"" ;
+}
+
+.md h6::before {
+	content:"" ;
+}
+
+.md div.title,
+.md contents,
+.md .tocHeader,
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6,
+.md .shortTOC,
+.md .mediumTOC,
+.md .nonumberh1,
+.md .nonumberh2,
+.md .nonumberh3,
+.md .nonumberh4,
+.md .nonumberh5,
+.md .nonumberh6 {
+  font-family:Verdana,Helvetica,Arial,sans-serif;
+  margin:4px 0 4px;
+  padding:15px 0 3px;
+  border-top:none;
+  clear:both
+}
+
+.md div.title a {
+	color: #222;
+}
+
+.footer.icons img {
+	padding-left: 1em;
+	float: right;
+	display: inline;
+	width: 25px;
+	height: 25px;
+}
+
+.markdeepFooter {
+	visibility: hidden;
+	padding: 0;
+	height: 0;
+}

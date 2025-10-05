@@ -31,23 +31,84 @@ example of this sort of a project.
 
 # What's in a name?
 
-Well Juliet, my name is xo. xo is a
-[mononym](https://en.wikipedia.org/wiki/Mononym) I chose when [transitioning
-socially](https://transwhat.org/transition/socialtrans.html). It comes from the
-shortened form of my online handle **xoorath** that friends sometimes shortened
-to xo. I like that it came from my friends in a way!
+* xo is pronounced like zoe (*zz-oh* not *zz-oh-e*).
+* xo is spelled with lowercase letters when possible (even at the start of a sentence).
+* xo is a [mononym](https://en.wikipedia.org/wiki/Mononym). Meaning: it's just xo!
+* Yes, a lot of systems
+  [do not support my name properly](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
+* xo is not a nickname. It's my real name and how you should refer to me unless
+  you have my permission to do otherwise.
+* My government name is not appropriate to use in non-government settings.
 
-Some quick info about my name:
-* xo is pronounced like (*zz-oh*).
-* xo is intentionally spelled with lowercase letters.
-* xo is a [mononym](https://en.wikipedia.org/wiki/Mononym) meaning I have no middle or last name.
-* Yes, a lot of systems [do not support my name properly](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
-* No, xo is not a nickname. It's my real name and how you should refer to me (unless you have my permission to do otherwise).
-* My government name is not appropriate to use for me in non-government settings.
+# Gender and pronouns
 
+I'm proudly transgender and prefer she/her pronouns, and am okay with they/them
+pronouns.
 
-It's not offensive to me when people make mistakes. If you're struggling with
-using a new name for me: it's okay so long as you're making an effort to treat
-me with respect.
+I will respect your pronouns and chosen name unless you demonstrate disrespect
+for the pronouns and chosen names of others.
+
+## Questions & conversations
+
+Here are some questions and statements made by family and my response.
+
+**Does that mean you think you're a woman now?**
+
+> My gender expression and identity are feminine and I would like to be referred
+> to in the ways that our culture refers to women. You know what those ways are.
+> I'm not giving a different answer than that because I don't have one right now
+> - I don't know if I'm a transgender woman or a transgender person who prefers
+> feminine expression and identity. I might be non-binary, gender non-conforming
+> or something else.
+
+**It sounds like there are some things you're still figuring out. Don't you
+  think you should get some help figuring that out before making any big
+  changes?**
+
+> No, and you know what: I'm actually under no obligation to have a concrete
+> and unchanging gender identity or expression. I know what I want and how I
+> feel. What I don't know is if the labels we're using in society today resonate
+> with me perfectly. Maybe our society needs some help figuring things out
+> before I'm expected to adopt it's labels?
+
+**So is the end game you cutting your dick off?**
+
+> What the fuck are you doing asking another person something like that?
+> For real: *what is wrong with you*? If I bring up my sexual health with you:
+> we can talk about it then. Since&nbsp;I&nbsp;didn't:
+> you should mind your Ps and Qs.
+
+**I'm really struggling with your new name / pronouns - is it okay if I
+call you by your [deadname](https://en.wikipedia.org/wiki/Deadnaming) or the
+pronouns I'd prefer to use for you?**
+
+> No. Make an effort to show me respect if you expect me to treat you with
+> respect. I'd really prefer we have a relationship based on respect and
+> if we can't have that: we probably won't have much of one at all.
+
+**What if I make a mistake and accidentally use your dead name or incorrect
+pronouns? Will you be angry?**
+
+> No, of course not. Even I have used my deadname before by accident as
+> embarrassing as that is. Change can be difficult to adapt to. What I'm asking
+> you to do is make a respectful good faith attempt to treat me with respect
+> and use my name (xo) and preferred pronouns (she/her).
+
+**I still don't get the whole they/them thing.**
+
+> Yes you do. "*Your neighbor that lives alone: What was **their** name? What
+> did you say to **them**?*" - it isn't that hard to refer to one person without
+> making mention of **their** gender. You do it all the time.
+
+**I'm going to stick with *a nickname based on your deadname* if that's cool.**
+
+>  
+> It isn't cool. Do not do that.
+
+**Can I call you xoxo?**
+
+>  
+> Nono to xoxo :). That is cute but especially while I'm adapting to my chosen
+> name I'd like it to be used.
 
                         (insert /fragments/footer.html here)

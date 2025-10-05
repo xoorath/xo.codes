@@ -1,5 +1,5 @@
-                                  **xo.codes**
-    [home](../../index.html) / about / [career](../career.html) / microsoft
+                        (insert /fragments/header.html here)
+    [home](/index.html) / about / [career](/about/career/career.html) / microsoft
 
 !!! WARNING
     This page is out of date and written in the present tense.
@@ -61,8 +61,4 @@ share team.
 ![Halo Infinite vistas](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_038.jpg)
 ![Halo Infinite campaign](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_041.jpg)
 
-\pagebreak
-
---------------------------------------------------------------------------------
-
-Copyright © 2025 [xo](https://xo.codes). All rights reserved.
+                        (insert /fragments/footer.html here)
