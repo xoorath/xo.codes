@@ -1,23 +1,53 @@
-                                  **xo.codes**
+                        (insert /fragments/header.html here)
                      [home](../index.html) / about / xo
 
+![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg)
 
-Hey, I'm xo! Here are some fun things about my name.
+I'm **xo** (*zz-oh*) (🏳️‍⚧️ *she/her*)
 
-- xo is my chosen name meaning I picked it for myself. It's not the name I was
-  given by my parents shortly after I was born, and it also isn't a nickname. A
-  chosen name is a real name: it's what you should call me.
-- I chose xo because it's a name friends have been calling me online for many
-  years. It's a short form of my name in online games: "xoorath". I liked that
-  xo is a name that friends gave me!
-- xo is pronounced like zz-oh, or the way some people pronounce the name Zoe.
-- xo is a [mononym](https://en.wikipedia.org/wiki/Mononym)! I may choose a last
-  name in the future (maybe even the one I was given by my parents), but that
-  would be just for practical reasons. As you might guess: quite a lot of forms
-  and systems don't work well for anyone with atypical names. Sometimes you'll
-  see my name on online accounts as "xo ." or "xo xo" for that reason. 
-- xo is written in lowercase. When xo is the first word in a sentence: it's
-  still proper to write it lowercase.
-- I don't get offended by people messing up some of the proper uses of my name
-  such as capitalization or appending my dead last name. People make mistakes
-  and it's an atypical name: it's okay. Please just make an effort.
+I grew up in Canada where I learned to make commercial video games. Today I live
+in America's pacific northwest and make video games professionally.
+
+I love tinkering and always have some number of projects on the go. I like
+making small fast programs, making art and hosting events.
+
+# Programming
+
+I sure do spend a lot of time thinking about and developing software... It's
+a very rewarding pastime for me and I'm privileged enough to do it
+professionally - especially in such an artistic domain.
+
+I often think about the ethics of software: Does this application waste
+someone's time? Does it consume an unreasonable amount of energy for what
+value it's offering? Is it considerate of other people's privacy? Is it
+accessible?
+
+The first programming language I learned was C++ and it's still one of the
+languages I enjoy writing the most, probably because it's so familiar to me.
+
+My favorite type of programming is the development of small applications that
+are efficient, precise, and resilient. [ESD](github.com/xoorath/esd) is an
+example of this sort of a project.
+
+# What's in a name?
+
+Well Juliet, my name is xo. xo is a
+[mononym](https://en.wikipedia.org/wiki/Mononym) I chose when [transitioning
+socially](https://transwhat.org/transition/socialtrans.html). It comes from the
+shortened form of my online handle **xoorath** that friends sometimes shortened
+to xo. I like that it came from my friends in a way!
+
+Some quick info about my name:
+* xo is pronounced like (*zz-oh*).
+* xo is intentionally spelled with lowercase letters.
+* xo is a [mononym](https://en.wikipedia.org/wiki/Mononym) meaning I have no middle or last name.
+* Yes, a lot of systems [do not support my name properly](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
+* No, xo is not a nickname. It's my real name and how you should refer to me (unless you have my permission to do otherwise).
+* My government name is not appropriate to use for me in non-government settings.
+
+
+It's not offensive to me when people make mistakes. If you're struggling with
+using a new name for me: it's okay so long as you're making an effort to treat
+me with respect.
+
+                        (insert /fragments/footer.html here)

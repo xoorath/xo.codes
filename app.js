@@ -12,45 +12,62 @@ const __dirname = dirname(__filename);
 const app = express()
 const port = 3000
 
+let markdeepSettingsPath = path.join(__dirname, 'markdeep-options.json');
+let markdeepSettingsContents = ''
+if (fs.existsSync(markdeepSettingsPath))
+{
+    markdeepSettingsContents = JSON.stringify(JSON.parse(fs.readFileSync(markdeepSettingsPath)));
+}
+else
+{
+    markdeepSettingsPath = null;
+    markdeepSettingsContents = null;
+}
+
 async function ServeRequest(req, res) {
-	/** @type {string} */
-	const originalUrl = req.originalUrl === '/' 
-		? '/index.html' 
-		: req.originalUrl;
+    /** @type {string} */
+    let originalUrl = req.originalUrl === '/' 
+        ? '/index.html' 
+        : req.originalUrl;
 
-	if (originalUrl.endsWith('.html')) {
-		const parsedPath = path.parse(originalUrl);
-		const expectedPath = path.join(__dirname, 'site', parsedPath.dir, parsedPath.name + '.md');
-		const expectedPathExists = await promisify(fs.exists)(expectedPath);
+    const paramsIdx = originalUrl.lastIndexOf('?')
+    if (paramsIdx !== -1) {
+        originalUrl = originalUrl.substring(0, paramsIdx)
+    }
 
-		if (expectedPathExists) {
-			const fileContents = await promisify(fs.readFile)(expectedPath);
+    if (originalUrl.endsWith('.html')) {
+        const parsedPath = path.parse(originalUrl);
+        const expectedPath = path.join(__dirname, 'site', parsedPath.dir, parsedPath.name + '.md');
+        const expectedPathExists = await promisify(fs.exists)(expectedPath);
 
-			res.send(`<!DOCTYPE html><meta charset="utf-8">
+        if (expectedPathExists) {
+            const fileContents = await promisify(fs.readFile)(expectedPath);
+
+            res.send(`<!DOCTYPE html><meta charset="utf-8">
 <html>
 ${fileContents}
-<script>markdeepOptions = {};</script>
-<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+<script>markdeepOptions = JSON.parse('${markdeepSettingsContents}');</script>
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
 </html>
-		`);
-		} else {
-			res.status(404).send('file not found');
-		}
-	} else {
-		const expectedPath = path.join(__dirname, 'site', originalUrl);
-		const expectedPathExists = await promisify(fs.exists)(expectedPath);
+        `);
+        } else {
+            res.status(404).send('file not found');
+        }
+    } else {
+        const expectedPath = path.join(__dirname, 'site', originalUrl);
+        const expectedPathExists = await promisify(fs.exists)(expectedPath);
 
-		if (expectedPathExists) {
-			res.sendFile(expectedPath);
-		} else {
-			res.status(404).send('file not found');
-		}
-	}
+        if (expectedPathExists) {
+            res.sendFile(expectedPath);
+        } else {
+            res.status(404).send('file not found');
+        }
+    }
 }
 
 app.get('/', ServeRequest);
 app.get('/*splat', ServeRequest);
 
 app.listen(port, () => {
-	console.log(`App listening on port ${port}`);
+    console.log(`App listening on port ${port}`);
 });

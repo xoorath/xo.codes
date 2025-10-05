@@ -1,5 +1,5 @@
-                                  **xo.codes**
-              [home](../../index.html) / articles / 2025 / passwords
+                        (insert /fragments/header.html here)
+                [home](/index.html) / articles / 2025 / passwords
 
 Forward
 ================================================================================
@@ -159,8 +159,4 @@ your account settings in various apps.
 - **Hardware Security Keys** - Normal people don't use these for their day to
    day life
 
-\pagebreak
-
---------------------------------------------------------------------------------
-
-Copyright © 2025 [xo](https://xo.codes). All rights reserved.
+                        (insert /fragments/footer.html here)

@@ -1,33 +1,27 @@
-                                 **xo.codes**
+                        (insert /fragments/header.html here)
+                                        home
 
-![Illustration by [Rek Bell](https://kokorobot.ca/)](data/site/xo_profile_pic.jpg)
+![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg)
 
-I'm **xo** (*zz-oh*) (🏳️‍⚧️ *she/they*)
+# xo 
 
-I grew up in Canada where I learned to make commercial video games. Today I live
-in America's pacific northwest and make video games professionally.
+[**About**](./about/xo.html) — A bit about me!
 
-I love tinkering and always have some number of projects on the go. I like
-making small fast programs, making art and hosting events.
+[**Career**](./about/career.html) — My professional portfolio
+ 
+# Projects
+- [**Seafarers**](./projects/seafarers.html) — An Action RPG featuring the
+      West African folk stories of Anansi the Spider. (2025)
 
-# Pages:
+# Articles
+- [**Build System Design**](./articles/2025/build-system-design.html)
+    — A technical design document for a build system and project structure for
+    video games. (*2025-10*)
+- [**Passwords**](./articles/2025/passwords.html) — Some guidance
+      on account security for regular folks. (*2025-09*)
+      
+# Recipes
+- [**Cheesecake**](./recipes/2023/cheesecake.html) — *2023*
 
-- **Projects**
-	- [**Seafarers**](./projects/seafarers.html) — An Action RPG featuring the
-	  West African folk stories of Anansi the Spider.
-- **Articles**
-	- [**Passwords**](./articles/2025/passwords.html) *2025-09* — Some guidance
-	  on account security for regular folks.
-	- [**Recommendations**](./articles/2025/recommendations.html) *2025-09* —
-	  Tools and software I use and recommend.
-- **Recipes**
-	- [**Cheesecake**](./recipes/2023/cheesecake.html) — *2023-*
-- **About Me**
-	- [**xo**](./about/xo.html)
-	- [**Career**](./about/career.html) — My professional portfolio
 
-\pagebreak
-
---------------------------------------------------------------------------------
-
-Copyright © 2025 [xo](https://xo.codes). All rights reserved.
+                        (insert /fragments/footer.html here) 

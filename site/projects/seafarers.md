@@ -1,10 +1,8 @@
-                                  **xo.codes**
-                     [home](../index.html) / seafarers
+                        (insert /fragments/header.html here)
+                                [home](/index.html)
 
 I don't have anything to share with you for the time being. Check back later.
 
 \pagebreak
 
---------------------------------------------------------------------------------
-
-Copyright © 2025 [xo](https://xo.codes). All rights reserved.
+                        (insert /fragments/footer.html here) 
