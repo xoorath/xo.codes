@@ -1,12 +1,12 @@
                         (insert /fragments/header.html here) 
                         [home](/index.html) / Licenses and Attribution
                         
-# Third Party Licenses
+(#) Third Party Licenses
 
 These are the licenses of open source tools and assets used in the creation of
 this website or shipped with the website itself.
 
-## Markdeep
+(##) Markdeep
 
 Every page on this website is authored with [Markdeep](https://casual-effects.com/markdeep/).
 
@@ -70,7 +70,7 @@ Every page on this website is authored with [Markdeep](https://casual-effects.co
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     ```
 
-## xxiivv
+(##) xxiivv
 
 This website uses the following assets from [xxiivv website](https://wiki.xxiivv.com/)
 

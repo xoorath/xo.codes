@@ -1,8 +1,7 @@
                         (insert /fragments/header.html here)
                      [home](/index.html) / about / career
 
-Overview
-================================================================================
+(#) Overview
 
 I've worked primarily for AAA game companies as a generalist programmer with a
 knack for low level c++ systems development. Even while working as a manager,
@@ -110,4 +109,5 @@ You can read more about my time in these roles here:
 - [Magmic](#)
 - [QNX Software Systems](#)
 
+                        (insert /fragments/back-to-top.html here)
                         (insert /fragments/footer.html here)

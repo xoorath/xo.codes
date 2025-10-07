@@ -3,6 +3,4 @@
 
 I don't have anything to share with you for the time being. Check back later.
 
-\pagebreak
-
                         (insert /fragments/footer.html here) 

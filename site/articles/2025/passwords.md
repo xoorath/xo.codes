@@ -1,8 +1,7 @@
                         (insert /fragments/header.html here)
                 [home](/index.html) / articles / 2025 / passwords
 
-Forward
-================================================================================
+(#) Forward
 
 This page goes over a few simple steps you can take today to improve the
 security of your online accounts. If you follow along by the end you will:
@@ -31,8 +30,8 @@ counter intuitive or if it sounds Greek to you: please keep reading and I'll
 walk you through securing your online accounts in as plain language as I can
 muster.
 
-Picking a great password
-================================================================================
+(#) Picking a great password
+
 Forget what you think you know about creating a great password - we're starting
 from a blank slate here. A great password has the following traits:
 
@@ -82,8 +81,8 @@ test it against the "great password" traits I mentioned earlier:
 3. **Is it private?** - Well no... now Taylor Swift knows that password. But if
    we play pretend that it is a brand new random 4 words: we are in great shape.
 
-Change a couple passwords
-================================================================================
+(#) Change a couple passwords
+
 I'm assuming you're starting from the same place as most folks:
 
 - Your password is short and annoying to type (*like `Tr0ub4dor&3`*).
@@ -118,8 +117,8 @@ Making that change will already help you **a lot** in terms of security and
 peace of mind. If you're confused about MFA: don't worry - I'll cover that in
 the next section.
 
-MFA: rule of 3
-================================================================================
+(#) MFA: rule of 3
+
 There's a great rule of 3 to help you remember what makes a great multi factor
 authentication setup:
 
@@ -137,8 +136,7 @@ My advice is to use all 3 factors (if possible) for:
 - Your social media
 - Syncing your password manager (if you use one)
 
-Glossary of terms
-================================================================================
+(#) Glossary of terms
 
 You don't have to remember all of these terms, but here's a quick rundown of
 account security jargon. You'll encounter some of these words as you go through

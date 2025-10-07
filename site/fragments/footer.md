@@ -1,8 +1,11 @@
 
---------------------------------------------------------------------------------
+<br>
+<hr>
 
 <div class="footer icons">
-	<img src="/data/site/icons/3arrows.png"/>
+	<a href="http://localhost:3000/about/xo.html#ethics">
+		<img src="/data/site/icons/3arrows.png"/>
+	</a>
 	<a href="https://webring.xxiivv.com/">
 		<img src="/data/site/icons/rotonde.png"/>
 	</a>

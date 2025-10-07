@@ -4,14 +4,14 @@
                                 
 ![](/data/site/recipes/2023/cheesecake/cheesecake_1.jpg)
 
-# Preparations
+(#) Preparations
 
-## Tools
+(##) Tools
 - 9 inch springform pan
 - A mixer or food processor
 - A pot or pan that can fit the springform pan inside.
 
-## Grocery
+(##) Grocery
 - 24oz full-fat cream cheese
 - 8oz sour cream or yogurt
 - Unsalted butter
@@ -24,12 +24,12 @@
 - Lemon juice
 - Aluminum foil (18 in. preferred over 12 in.)
 
-## Before you begin
+(##) Before you begin
 - The cold ingredients for the filling should be left out until room temperature before starting.
 - Once ready to begin: Pre-heat the oven to 350f and grease the springform pan.
 - If you want to include berry sauce in the filling itself you should work on the sauce before the filling.
 
-# Make the crust
+(#) Make the crust
 
 | Qty.                  | Ingredient             |
 |-----------------------|------------------------|
@@ -47,7 +47,7 @@
     A cup with a flat bottom can help make an flat compact layer of crust.
 
 
-# Make the filling
+(#) Make the filling
 
 | Qty.                  | Ingredient             |
 |-----------------------|------------------------|
@@ -62,7 +62,7 @@
 2. Add sour cream and vanilla until combined.
 3. On a low speed add the eggs one at a time until just blended. Do not over-mix.
 
-## Bake
+(##) Bake
 
 !!! Warning:
     Before starting make sure the crust has completely cooled and the oven is pre-heated to 325f.
@@ -78,7 +78,7 @@
 7. Turn off the oven and let cool with the door open for 1 hour.
 8. Remove from the oven and allow to cool completely at room temperature.
 
-7# Make the berry sauce
+(#) Make the berry sauce
 
 | Qty.                  | Ingredient             |
 |-----------------------|------------------------|
@@ -96,7 +96,7 @@
 !!! Tip:
     Depending on your preference: you can strain the juices from the berries before adding the cornstarch.
     
-# Finishing Details
+(#) Finishing Details
 
 The cake should be left to set in the fridge for at least 12 hours. The earlier you eat it the more it will taste like a block of cream cheese and less like a cake. I would advise waiting 2 full days for it to set completely.
 

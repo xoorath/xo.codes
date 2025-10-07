@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="general_prohibition_sign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.036062"
+     inkscape:cx="218.61626"
+     inkscape:cy="230.19858"
+     inkscape:window-width="2243"
+     inkscape:window-height="1364"
+     inkscape:window-x="1239"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="232.61156"
+       y="270.2541"
+       width="353.26071"
+       height="296.31431"
+       id="rect4" />
+    <rect
+       x="176.63036"
+       y="199.79499"
+       width="459.49224"
+       height="340.89889"
+       id="rect1" />
+    <rect
+       x="194.00383"
+       y="250.95023"
+       width="363.87783"
+       height="331.06127"
+       id="rect2" />
+    <rect
+       x="176.63036"
+       y="199.79499"
+       width="459.49224"
+       height="340.89889"
+       id="rect3" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.86444442,0,0,0.86444442,-249.21565,-145.82294)"
+         id="text3"
+         style="font-weight:bold;font-size:26.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:1.02px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:none;stroke:#ffffff;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="22.323355"
+         y="0"
+         inkscape:label="JS"><tspan
+           x="306.69886"
+           y="349.55492"
+           id="tspan2"><tspan
+             style="font-size:192px;font-family:'Neutraface Text';-inkscape-font-specification:'Neutraface Text, Bold';fill:#000000"
+             id="tspan1">JS</tspan></tspan></text>
+    </mask>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:20.756;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1"
+       cx="99.999992"
+       cy="100.00001"
+       r="89.622086" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.8853688,0,0,0.8853688,-264.30895,-218.04528)"
+       id="text1"
+       style="font-weight:bold;font-size:192px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:1.51px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:75.5906;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+         x="309.3191"
+         y="420.94994"
+         id="tspan5"><tspan
+           style="font-family:'Neutraface Text';-inkscape-font-specification:'Neutraface Text Bold';stroke:none"
+           id="tspan3">JS</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 37.377472,37.377472 162.62253,162.62253"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

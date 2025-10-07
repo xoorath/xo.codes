@@ -2,23 +2,26 @@
 
 ![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg)
 
-# xo 
+(#) xo 
 
 * [**About**](./about/xo.html) — A bit about me!
 * [**Career**](./about/career.html) — My professional portfolio
  
-# Projects
+(#) Projects
+
 - [**Seafarers**](./projects/seafarers.html) — An Action RPG featuring the
       West African folk stories of Anansi the Spider. (2025)
 
-# Articles
+(#) Articles
+
 - [**Build System Design**](./articles/2025/build-system-design.html)
     — A technical design document for a build system and project structure for
     video games. (*2025-10*)
 - [**Passwords**](./articles/2025/passwords.html) — Some guidance
       on account security for regular folks. (*2025-09*)
       
-# Recipes
+(#) Recipes
+
 - [**Cheesecake**](./recipes/2023/cheesecake.html) — *2023*
 
 <br><br><br>

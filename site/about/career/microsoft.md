@@ -6,8 +6,7 @@
     In March of 2024 I left Turn 10 Studios to join Riot Games which I have not
     created a page for yet.
 
-Turn 10
-================================================================================
+(#) Turn 10
 
 I work at Turn 10 studios leading ForzaTech's security and technology sharing
 teams. ForzaTech is the engine behind Forza Motorsport, Forza Horizon and Fable.
@@ -32,8 +31,7 @@ lead and manager, and as an IC.
 ![Forza Horizon 5](https://xoorath.github.io/Jobs/xbox/horizon5_1.jpg)
 ![Fable](https://xoorath.github.io/Jobs/xbox/fable_1.png)
 
-Halo Studios
-================================================================================
+(#) Halo Studios
 
 At 343 Industries (now: Halo Studios) I had quite an interesting start. I
 ramped up right as covid-19 was sending us all home, the hiring manager that
@@ -61,4 +59,5 @@ share team.
 ![Halo Infinite vistas](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_038.jpg)
 ![Halo Infinite campaign](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_041.jpg)
 
+                        (insert /fragments/back-to-top.html here)
                         (insert /fragments/footer.html here)
