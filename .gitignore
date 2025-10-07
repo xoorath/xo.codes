@@ -3,4 +3,4 @@ build/
 
 # it's useful to symlink our mounted data during development.
 # don't submit that symlink!
-site/data/
+site/data
