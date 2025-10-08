@@ -23,7 +23,7 @@ article. Here are the key takeaways:
    [Bitwarden](https://bitwarden.com), and 
    [Proton Pass](https://proton.me/pass) in no particular order. They're all
    great.
-   
+
 If you understood all that and get why I would make those recommendations:
 there is not going to be much else for you here. If some of that is confusing,
 counter intuitive or if it sounds Greek to you: please keep reading and I'll

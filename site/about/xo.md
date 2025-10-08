@@ -1,7 +1,7 @@
-                        (insert /fragments/header.html here)
-                     [home](../index.html) / about / xo
+                    (insert /fragments/header.html here)
+                    [home](../index.html) / about / xo
 
-![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg)
+![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg alt="My profile picture illustrated by Rek Bell")
 
 I'm **xo** (*zz-oh*) (🏳️‍⚧️ *she/her*)
 
@@ -116,13 +116,6 @@ pronouns? Will you be angry?**
 >  
 > Very unlikely - certainly not while living in America as an immigrant under
 > a government that wants me scared, tortured, and dead, in that order bar none.
-
-
-(#) Ethics
-
-![I have [no tolerance](/data/site/paradox_of_tolerance_pictoline.jpg) for fascists or hate speech.](/data/site/icons/no_nazi.svg width="60px")
-![There is no generative AI or AI-assisted content on this website.](/data/site/icons/no_ai.svg width="60px")
-![This website does not use JavaScript.<br>There are no trackers, analytics or cross-site assets.](/data/site/icons/no_js.svg width="60px")
-                        
+    
                         (insert /fragments/back-to-top.html here)
                         (insert /fragments/footer.html here)

@@ -1,5 +1,10 @@
                         (insert /fragments/header.html here) 
                         [home](/index.html) / Licenses and Attribution
+
+(#) xo.codes License
+
+The content published on this website (https://xo.codes) is licensed under the
+CC [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
                         
 (#) Third Party Licenses
 
@@ -70,17 +75,30 @@ Every page on this website is authored with [Markdeep](https://casual-effects.co
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     ```
 
-(##) xxiivv
+(##) xxiivv.com
 
-This website uses the following assets from [xxiivv website](https://wiki.xxiivv.com/)
+This website uses the following content from [xxiivv.com](https://wiki.xxiivv.com/)
 
 * [4arrows.png](/data/site/icons/4arrows.png)
 * [cc.png](/data/site/icons/cc.png)
 * [merveilles.png](/data/site/icons/merveilles.png)
 * [rotonde.png](/data/site/icons/rotonde.png)
+* Text from [wiki.xxiivv.com/site/ethics.html](https://wiki.xxiivv.com/site/ethics.html)
 
-These icons are provided by 
-[Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_linvega.html) under the CC 
+
+This content is provided by 
+[Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_linvega.html) under
+the CC [BY-NC-SA4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+license.
+
+(##) kokorobot.ca
+
+This website uses the following content from
+[kokorobot.ca](https://kokorobot.ca)
+
+* Text from [kokorobot.ca/site/politics.html](https://kokorobot.ca/site/politics.html)
+
+This content is provided by [Rek Bell](https://kokorobot.ca/) under the CC
 [BY-NC-SA4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
                         (insert /fragments/footer.html here) 

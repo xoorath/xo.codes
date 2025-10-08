@@ -43,7 +43,7 @@ async function ServeRequest(req, res) {
         if (expectedPathExists) {
             const fileContents = await promisify(fs.readFile)(expectedPath);
 
-            res.send(`<!DOCTYPE html><meta charset="utf-8">
+            res.send(`<!DOCTYPE html lang="en"><meta charset="utf-8">
 <html>
 ${fileContents}
 <script>markdeepOptions = JSON.parse('${markdeepSettingsContents}');</script>

@@ -1,11 +1,12 @@
                         (insert /fragments/header.html here)
 
-![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg)
+![Illustration by [Rek Bell](https://kokorobot.ca/)](/data/site/xo_profile_pic.jpg alt="My profile picture illustrated by Rek Bell")
 
 (#) xo 
 
 * [**About**](./about/xo.html) — A bit about me!
 * [**Career**](./about/career.html) — My professional portfolio
+* [**Politics**](./about/politics.html) — Where I stand
  
 (#) Projects
 
@@ -14,9 +15,6 @@
 
 (#) Articles
 
-- [**Build System Design**](./articles/2025/build-system-design.html)
-    — A technical design document for a build system and project structure for
-    video games. (*2025-10*)
 - [**Passwords**](./articles/2025/passwords.html) — Some guidance
       on account security for regular folks. (*2025-09*)
       

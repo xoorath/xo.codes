@@ -7,11 +7,13 @@
 (#) Preparations
 
 (##) Tools
+
 - 9 inch springform pan
 - A mixer or food processor
 - A pot or pan that can fit the springform pan inside.
 
 (##) Grocery
+
 - 24oz full-fat cream cheese
 - 8oz sour cream or yogurt
 - Unsalted butter
@@ -25,6 +27,7 @@
 - Aluminum foil (18 in. preferred over 12 in.)
 
 (##) Before you begin
+
 - The cold ingredients for the filling should be left out until room temperature before starting.
 - Once ready to begin: Pre-heat the oven to 350f and grease the springform pan.
 - If you want to include berry sauce in the filling itself you should work on the sauce before the filling.
