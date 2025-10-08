@@ -14,8 +14,8 @@ making small fast programs, making art and hosting events.
 (#) Programming
 
 I sure do spend a lot of time thinking about and developing software... It's
-a very rewarding pastime for me and I'm privileged enough to do it
-professionally - especially in such an artistic domain.
+a very rewarding activity for me; I'm grateful that I'm privileged enough to do it
+professionally - especially as a game developer.
 
 I often think about the ethics of software: Does this application waste
 someone's time? Does it consume an unreasonable amount of energy for what
@@ -23,7 +23,7 @@ value it's offering? Is it considerate of other people's privacy? Is it
 accessible?
 
 The first programming language I learned was C++ and it's still one of the
-languages I enjoy writing the most, probably because it's so familiar to me.
+languages I enjoy writing in the most, probably because it's so familiar to me.
 
 My favorite type of programming is the development of small applications that
 are efficient, precise, and resilient. [ESD](github.com/xoorath/esd) is an
@@ -70,13 +70,13 @@ measured response to each. I hope you find it amusing or helpful.
 > concrete and unchanging gender identity or expression. I know what I want and
 > how I feel. What I don't know is if the labels we're using in society today
 > resonate with me perfectly. Maybe our society needs some help figuring things
-> out before I'm expected to adopt it's labels?
+> out before I'm expected to adopt it's label?
 
 **So is the end game you cutting your dick off?**
 
 > What the fuck kind of question is that? For real... If I bring up my sexual
 > health with you: we can talk about it then. Since&nbsp;I&nbsp;didn't: you
-> should really mind your Ps and Qs.
+> should really mind your Ps&nbsp;and&nbsp;Qs.
 
 **I'm really struggling with your new name and pronouns - is it okay if I
 call you by your [deadname](https://en.wikipedia.org/wiki/Deadnaming) or the
@@ -89,10 +89,10 @@ pronouns I'm more used to?**
 **What if I make a mistake and accidentally use your deadname or incorrect
 pronouns? Will you be angry?**
 
-> No, of course not. Even I've used my deadname before by accident as
-> (embarrassing as that is). Change can be difficult to adapt to. What I'm
+> No, of course not. Even I've used my deadname before by accident
+> (as embarrassing as that is). Change can be difficult to adapt to. What I'm
 > asking you to do is make a respectful good faith attempt to treat me with
-> respect, use my name (xo) and my preferred pronouns (she/her).
+> respect, use my&nbsp;name&nbsp;(xo) and my preferred&nbsp;pronouns&nbsp;(she/her).
 
 **I still don't get the whole they/them thing.**
 
@@ -114,8 +114,16 @@ pronouns? Will you be angry?**
 **Are you going to legally change your name?**
 
 >  
-> Very unlikely - certainly not while living in America as an immigrant under
-> a government that wants me scared, tortured, and dead, in that order bar none.
-    
+> Very unlikely - certainly not while living in the United States as an
+> immigrant under a government that wants me scared, tortured, and dead.
+
+**Aren't you scared to live in the United States right now?**
+
+>  
+> Sometimes but not usually. I'm grateful for my friends, their strength,
+> resillience, resourcefulnes, courage and love. Through them I have
+> everything I need.
+
+
                         (insert /fragments/back-to-top.html here)
                         (insert /fragments/footer.html here)
