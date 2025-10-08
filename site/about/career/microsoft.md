@@ -8,6 +8,8 @@
 
 (#) Turn 10
 
+*December 2021 — March 2024*
+
 I work at Turn 10 studios leading ForzaTech's security and technology sharing
 teams. ForzaTech is the engine behind Forza Motorsport, Forza Horizon and Fable.
 
@@ -25,11 +27,11 @@ I initially joined Turn 10 as a senior engineer on the Tech Share team and
 currently work as tech share's dev lead and manager, the security team's dev
 lead and manager, and as an IC. 
 
-![Turn 10 Poster](https://xoorath.github.io/Jobs/xbox/t10-poster.png)
-![Forza Motorsport](https://xoorath.github.io/Jobs/xbox/forza_1.png)
-![Forza Motorsport](https://xoorath.github.io/Jobs/xbox/forza_2.png)
-![Forza Horizon 5](https://xoorath.github.io/Jobs/xbox/horizon5_1.jpg)
-![Fable](https://xoorath.github.io/Jobs/xbox/fable_1.png)
+![Turn 10 Poster](/data/site/about/career/microsoft/t10-poster.png)
+![Forza Motorsport](/data/site/about/career/microsoft/forza_1.png)
+![Forza Motorsport](/data/site/about/career/microsoft/forza_2.png)
+![Forza Horizon 5](/data/site/about/career/microsoft/horizon5_1.jpg)
+![Fable](/data/site/about/career/microsoft/fable_1.png)
 
 (#) Halo Studios
 
@@ -53,11 +55,11 @@ not a particularly good fit for me. On December 8th 2021, the launch date of
 Halo Infinite: I transferred to Turn 10 Studios to work on ForzaTech's tech
 share team.
 
-![343 Industries Poster](https://xoorath.github.io/Jobs/xbox/343.png)
-![Halo Infinite co-op](https://xoorath.github.io/Jobs/xbox/halo_1.png)
-![Halo Infinite co-op](https://xoorath.github.io/Jobs/xbox/halo_2.png)
-![Halo Infinite vistas](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_038.jpg)
-![Halo Infinite campaign](https://xoorath.github.io/Jobs/xbox/4K_HaloInfinite_ConceptArt_041.jpg)
+![343 Industries Poster](/data/site/about/career/microsoft/343.png)
+![Halo Infinite co-op](/data/site/about/career/microsoft/halo_1.png)
+![Halo Infinite co-op](/data/site/about/career/microsoft/halo_2.png)
+![Halo Infinite vistas](/data/site/about/career/microsoft/4K_HaloInfinite_ConceptArt_038.jpg)
+![Halo Infinite campaign](/data/site/about/career/microsoft/4K_HaloInfinite_ConceptArt_041.jpg)
 
                         (insert /fragments/back-to-top.html here)
                         (insert /fragments/footer.html here)
