@@ -15,87 +15,81 @@ challenge us and delight players. On every major project I endeavor to do my
 life's best work and support others trying to do the same.
 
 ********************************************************************************
-*  .-----------------------------------.
-* | Riot Games           2024 — current |
-* +-------------------------------------+
-* | Principal Software Engineer Lead    |
-* | (6 month temporary position)        |
-* | - Unannounced                       |
-* | 2025 — current                      |
-* +-------------------------------------+
-* | Principal Software Engineer         |
-* | - League of Legends                 |
-* | - Teamfight Tactics                 |
-* | - Other projects in the LoL         |
-* |   engine ecosystem                  |
-* | 2024 — 2025                         |
-*  '----------------+------------------'
-*                   ^
-*  .----------------+------------------.
-* | Microsoft               2019 — 2024 |
-* +-------------------------------------+
-* | Sr. Software Engineering Manager    |
-* | - Forza Motorsport                  |
-* | - Forza Horizon 5                   |
-* | - Fable                             |
-* | 2022 — 2024                         |
-* +-------------------------------------+
-* | Sr. Software Engineer               |
-* | - Forza Motorsport                  |
-* | - Forza Horizon 5                   |
-* | - Fable                             |
-* | 2021 — 2022                         |
-* +-------------------------------------+
-* | Software Engineer                   |  
-* | - Halo Infinite                     |
-* | 2019 — 2021                         |
-*  '----------------+------------------'
-*                   ^
-*  .----------------+------------------.
-* | Snowed In Studios       2015 — 2019 |
-* +-------------------------------------+
-* | Technical Director                  |
-* | - Starfield                         |
-* | - Forza Motorsport                  |
-* | - Unannounced (2K Games)            |
-* | 2018 — 2019                         |   .--------------------------------.
-* +-------------------------------------+  | Capital Game Expo           2017 |
-* | Lead Software Engineer              |  +----------------------------------+
-* | - Unannounced (2K Games)            |  | Co-Founder                       |
-* | - AdVenture Capitalist              |  | Expo Director                    |
-* | 2016 — 2018                         |   '--------------------------------'
-* +-------------------------------------+   .--------------------------------.
-* | Senior Software Engineer            |  | Game & Art Expo             2016 |
-* | 2015 — 2016                         |  +----------------------------------+
-*  '----------------+------------------'   | Expo Director                    |
-*                   ^                       '--------------------------------'
-*  .----------------+------------------. 
-* | Ubisoft Montreal        2013 — 2015 |
-* +-------------------------------------+
-* | Generalist Programmer               |
-* | - For Honor                         |
-* | - Shape Up                          |
-* | - Watch Dogs                        |
-*  '----------------+------------------' 
-*                   ^
-*  .----------------+------------------.
-* | Magmic Games            2012 — 2013 |
-* +-------------------------------------+
-* | Generalist Programmer               |
-*  '----------------+------------------'
-*                   ^
-*  .----------------+------------------.
-* | QNX Software Systems    2011 — 2012 |
-* +-------------------------------------+
-* | Graphics Programmer                 |
-*  '----------------+------------------'
-*                   ^
-*  .----------------+------------------.    .--------------------------------.  
-* | Algonquin College       2010 — 2011 |  | Algonquin College    2008 — 2011 |
-* +-------------------------------------|  +----------------------------------+
-* | Program Assistant                   |  | Student                          |
-*  '-----------------------------------'   | - Ontario Advanced Diploma       |
-*                                           '--------------------------------'
+*
+* 2026    ^                     
+*         | Principal Lead SWE  |       .----------------------------------.
+*         | Riot Games          |----->| Currently leading the engineering  |
+*         |                     |      | team of an unannounced project.    |
+* 2025    | League of Legends   |       '----------------------------------'
+*         | TFT                 |
+*         |                     |
+*         | 03-2024 – current   |
+* 2024    +---------------------+
+*         | Microsoft           |
+*         | Sr. SWE Manager     |
+*         |                     |
+* 2023    | Fable               |
+*         | Forza Motorsport    |
+*         | Forza Horizon 5     |
+*         | Halo Infinite       |
+* 2022    |                     |
+*         |                     |
+*         |                     |
+*         |                     |
+* 2021    |                     |
+*         |                     |
+*         |                     |
+*         |                     |
+* 2020    | 12-2019 – 02-2024   |
+*         +---------------------+
+*         | Snowed In Studios   |
+*         | Technical Director  |
+* 2019    |                     |
+*         | Starfield           |
+*         | Forza Motorsport    |
+*         | NDA - Hangar 13     |
+* 2018    | Tools - Eidos       |
+*         | and more...         |
+*         |                     |
+*         |                     |
+* 2017    |                     |
+*         |                     |
+*         |                     |
+*         |                     |
+* 2016    | 10-2015 – 12-2019   |
+*         .---------------------.
+*         .---------------------.
+*         | Ubisoft Montreal    |
+* 2015    | Programmer          |
+*         |                     |
+*         | For Honor           |
+*         | Shape Up            |
+* 2014    | Watch Dogs          |
+*         |                     |
+*         | 05-2013 – 09-2015   |
+*          +---------------------+
+* 2013    | Magmic              |
+*         | Programmer          |
+*         |                     |
+*         | 03-2012 – 04–2013   |
+* 2012    +---------------------+
+*         | QNX                 |
+*         | Graphics Programmer |
+*         +---------------------+    .--------------------.
+* 2011    | Algonquin College   |    | Algonquin College  |
+*         | Student             |    | Program Assistant  |
+*         | Game Development    |    | Game Developmemt   |
+*         |                     |    |                    |
+* 2010    | Advanced Diploma    |    | 01-2010 – 04-2011  |
+*         |                     |    '--------------------'
+*         |                     |
+*         |                     |
+* 2009    |                     |
+*         | 09-2008 – 04-2011   |
+*         '---------------------'
+*         
+* 2008
+* 
 ********************************************************************************
 
 You can read more about my time in these roles here:
