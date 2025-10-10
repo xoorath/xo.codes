@@ -40,9 +40,9 @@ from a blank slate here. A great password has the following traits:
 3. **It's private** - only you know it.
 
 In the web comic [XKCD #936](https://xkcd.com/936/) the author gives us a
-great example of two kinds of passwords: the complex kind we're taught to use
+great example of two kinds of passwords: the complex kind we've been taught to use
 and a simple one that's easy to remember and just a bit longer. In the comic 
-(which admittedly is pretty full of nerd jargon) we're taught that the simple
+(which admittedly is pretty full of nerd jargon) we're taught that the simpler
 password is **is significantly more secure**. 
 
 The examples given are:
@@ -63,8 +63,8 @@ This is a tough first concept for a lot of folks, so: if we're on the same page
 at this point you're doing great so far. Let's keep going.
 
 Not to contradict the wisdom of XKCD, but... when **you** create a password for
-realzies you are probably going to want to include **capital letters, symbols
-and numbers**. This is just to be sure the password is not rejected by most sane
+real you are probably going to want to include **capital letters, symbols
+and numbers**. This is just to be sure the password is not rejected by most
 password systems that demand your password have those criteria. The last thing
 we want is having to remember which site required symbols or capital letters and
 which ones didn't.
@@ -78,8 +78,9 @@ test it against the "great password" traits I mentioned earlier:
 
 1. **Is it practical?** - Yes: it's easy to type and remember.
 2. **Is it long?** - Certainly long enough. It would take centuries to crack.
-3. **Is it private?** - Well no... now Taylor Swift knows that password. But if
-   we play pretend that it is a brand new random 4 words: we are in great shape.
+3. **Is it private?** - Well no... now Taylor Swift knows **that** password. But if
+   we're talkimg about a brand new random 4 words that only you know: we are in
+   great shape.
 
 (#) Change a couple passwords
 
@@ -90,7 +91,7 @@ I'm assuming you're starting from the same place as most folks:
     - Maybe the company hosting your data has been hacked whether you know it or
       not. (*like: Yahoo, Adobe, LinkedIn, MySpace, Adult Friend Finder, and
       many more!*)
-    - Or your account was hacked by someone looking to exploit or extort you or
+    - Or your account was hacked by someone looking to exploit you or
       your friends.
 - You have been using this password for a long time, maybe only updating it as
   some sites increased their password complexity requirements (adding
@@ -100,24 +101,36 @@ Does that sound like you? If so: I'm glad you're here!
 
 !!! TIP: This isn't your fault.
     There's no shame in having an insecure password, having been hacked or
-    re-using the same password for a long time. That's all I'll say about that.
+    re-using the same password for a long time.
     
     It's only in recent years been getting easier for websites and apps to
     follow best practices and for users to authenticate securely. We are still
-    a far cry away from security being even remotely fool proof - it's not even
-    especially techie proof.
+    a far cry away from security being even remotely fool-proof - it's not even
+    especially techie-proof.
 
 Here's what I suggest you do over the next few days or weeks:
-1. Change the password on your most important accounts (email, bank, payment,
-   socials) to a **single** new password using the advice from the previous
+1. Come up with **one** great new password using the advice from the previous
    section.
+1. Change the password on your most important accounts (email, bank, payment,
+   socials) to that password.
 2. Enable MFA (multi factor authentication) on all of those accounts as you go.
 
 Making that change will already help you **a lot** in terms of security and
 peace of mind. If you're confused about MFA: don't worry - I'll cover that in
 the next section.
 
+It might be surprising to hear me suggest using the same password for 
+multiple accounts – you would be right to think that its not ideal. That said:
+this guide is for regular folks and regular folks don't have the tools, motivation,
+or patience to deal with dozens or hundreds of unique passwords. We will talk about
+how to make that easy in the upcomming section on password managers.
+
 (#) MFA: rule of 3
+
+!!! Info: What the heck is MFA?
+    Every step you take to prove an account is yours is **a factor**. 
+    MFA (multi factor authentication) means having more than one factor
+    such as requiring a password and providing a number texted to your phone.
 
 There's a great rule of 3 to help you remember what makes a great multi factor
 authentication setup:
@@ -127,7 +140,7 @@ authentication setup:
 3. Something **you are** - like a fingerprint or facial recognition
 
 Any accounts you have that are secured with all of those factors are in great
-shape. That might not always be possible and may sometimes just be undesirable,
+shape. That might not always be possible and may sometimes be undesirable,
 and that's okay sometimes too.
 
 My advice is to use all 3 factors (if possible) for:
@@ -136,19 +149,32 @@ My advice is to use all 3 factors (if possible) for:
 - Your social media
 - Syncing your password manager (if you use one)
 
+(##) Quick aside – online shopping
+
+I do a lot of online shopping and I try to support smaller creators when I can.
+That puts me in a pickle though: I'm creating lots of accounts and I expect small
+stores to know less about securing their databases. 
+
+That scenario raises a flag for me in terms of risk. Here are some options
+to mitigate that risk:
+
+- Say no when prompted to save payment details.
+- Pay with a third party app like Apple Pay so payment security is handled by a
+  company that has expertise in securing paymemts.
+- Use a service like [Privacy Card](https://privacy.com) to generate a single-use
+  credit card for that purchase.
+
 (#) Glossary of terms
 
-You don't have to remember all of these terms, but here's a quick rundown of
-account security jargon. You'll encounter some of these words as you go through
-your account settings in various apps.
+Here is a quick rundown of account security jargon. You'll encounter some of these
+terms as you go through your account settings in various apps.
 
 - **Two factor authentication** (2FA) - Each step you use to sign in is a
   "*factor*"". Normally your first factor is a **username and password** and the
-  second factor is something else like a code sent to your email or phone, or a
-  one-time code you get from an app.
-- **Multi factor authentication** (MFA) - Multi factor can be two, three or more
+  second factor is something else like a code sent to your email or phone.
+- **Multi factor authentication** (MFA) - Multi factor can be two or more
   factors. 2FA is a kind of MFA. Normal people can use 2FA and MFA
-  interchangeably and no reasonable techie is going to bat an eye.
+  interchangeably and no reasonable person is going to bat an eye.
 - **Time based one time password** (TOTP) - Authenticator apps (*[like Google
    Authenticator]*(https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2))
    give you a number that updates every few seconds that can be used to sign in
@@ -156,5 +182,9 @@ your account settings in various apps.
    pretty dang good second factor to use when signing in to an account!
 - **Hardware Security Keys** - Normal people don't use these for their day to
    day life
+
+!!! Warning: WIP
+    This page is a work im progress. The next steps I haven't written about yet go
+    over password managers, their features and how to use them.
 
                         (insert /fragments/footer.html here)
