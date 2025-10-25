@@ -18,6 +18,6 @@
 	
 </div>
 
-xo © 2025 all rights reserved — [attribution](/license-and-attribution.html)
+xo © 2025 all rights reserved — [attribution](/license-and-attribution.html)<br>[AI home](/hell)
 
 <link rel="stylesheet" href="/style/xo.codes.css">
